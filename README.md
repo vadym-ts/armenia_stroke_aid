@@ -5,7 +5,7 @@ QGIS-based analysis of travel-time accessibility to acute stroke care in Armenia
 
 This project explores how quickly patients can potentially reach specialized stroke treatment using a routable OpenStreetMap road network and travel-time accessibility modeling.
 
-The analysis focuses specifically on the 6 hospitals participating in Armenia’s dedicated stroke treatment program, rather than all hospitals in the country. These centers were selected because acute stroke treatment is highly time-sensitive, and outcomes depend heavily on reaching appropriate care within critical therapeutic windows — often referred to as the “golden hour”.
+The analysis focuses specifically on the 6 hospitals in 3 major cities, participating in Armenia’s dedicated stroke treatment program, rather than all hospitals in the country. These centers were selected because acute stroke treatment is highly time-sensitive, and outcomes depend heavily on reaching appropriate care within critical therapeutic windows — often referred to as the “golden hour”.
 
 Travel-time analysis was performed using a road network with estimated speeds assigned by road type. Areas located more than 3 km from the mapped road network were masked to avoid overinterpretation in sparsely connected mountainous terrain.
 
